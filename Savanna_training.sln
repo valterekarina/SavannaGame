@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Savanna", "Savanna\Savanna.csproj", "{64E91445-724C-4CEA-9F0B-6C551E89FF28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Savanna.Tests", "Savanna.Tests\Savanna.Tests.csproj", "{36F120DA-7AB1-4BA0-BF0C-99B9EAD0C7BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Savanna.AnimalBehavior", "Savanna.AnimalBehavior\Savanna.AnimalBehavior.csproj", "{B0580E55-57A5-4696-B6FD-AEE12B5B0829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savanna.GameLogic", "Savanna.GameLogic\Savanna.GameLogic.csproj", "{7D6FBA76-AC79-4554-8C36-993D45AC5EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E91445-724C-4CEA-9F0B-6C551E89FF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E91445-724C-4CEA-9F0B-6C551E89FF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E91445-724C-4CEA-9F0B-6C551E89FF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E91445-724C-4CEA-9F0B-6C551E89FF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F120DA-7AB1-4BA0-BF0C-99B9EAD0C7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F120DA-7AB1-4BA0-BF0C-99B9EAD0C7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F120DA-7AB1-4BA0-BF0C-99B9EAD0C7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F120DA-7AB1-4BA0-BF0C-99B9EAD0C7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0580E55-57A5-4696-B6FD-AEE12B5B0829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0580E55-57A5-4696-B6FD-AEE12B5B0829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0580E55-57A5-4696-B6FD-AEE12B5B0829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0580E55-57A5-4696-B6FD-AEE12B5B0829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6FBA76-AC79-4554-8C36-993D45AC5EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6FBA76-AC79-4554-8C36-993D45AC5EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6FBA76-AC79-4554-8C36-993D45AC5EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6FBA76-AC79-4554-8C36-993D45AC5EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACB6364-8876-45CC-B1E9-D3F84A0DB040}
+	EndGlobalSection
+EndGlobal
